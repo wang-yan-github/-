@@ -1,4 +1,6 @@
-# 安装brew
-  homebrew 官网 https://brew.sh/
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+# homebrew
+
+    homebrew 官网 https://brew.sh/
+    
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
