@@ -49,8 +49,8 @@ python中自带了distutils，直接用
           version='1.0',
           description='test package',
           author='Su Yan',
-          author_email='yansu0711@gmail.com',
-          url='http://www.yansu.org',
+          author_email='wangYanJava@gmail.com',
+          url='http://www.wangyan.name',
           packages=['test'],
           scripts=['scripts/test.sh']
          )

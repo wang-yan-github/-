@@ -15,7 +15,7 @@ Collector顾名思义是负责数据收集的，它负责搜集来自OpenStack�
 
 [Tim](http://timyang.net/web/pubsubhubbub/)的这篇博客也讲了它的机制，其中有这个图：
 
-![PubSubHubbub](http://imgs.yansu.org/tech-pubsubhubbub.png)
+![PubSubHubbub](http://imgs.wangyan.name/tech-pubsubhubbub.png)
 
 
 一个PubSubHubbub的大致流程如下：

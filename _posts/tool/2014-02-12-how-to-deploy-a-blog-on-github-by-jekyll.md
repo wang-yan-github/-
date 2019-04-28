@@ -70,8 +70,8 @@ permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: 王閆
-  email: yansu0711@gmail.com
-  link: http://yansu.org
+  email: wangYanJava@gmail.com
+  link: http://wangyan.name
 title: 王閆的博客                             #自定义常量
 locals:                                     #自定义常量
   tags: 标签
@@ -87,7 +87,7 @@ markdown: redcarpet                         #markdown解释器
 `CNAME`这个文件写明了这个站点的域名，如果不喜欢`username.github.io`的话，可以像我一样改掉
 
 ```
-yansu.org
+wangyan.name
 ```
 
 改法只要在这个文件中写入域名就可以了。不过你需要去域名服务商那里设定域名解析规则。
@@ -238,7 +238,7 @@ title: 首页
 ### 方便的截图
 很多时候图片都是现截取的，比如用QQ的截图工具，或者系统的截图工具，但是他们截取完都存放在了`user/Pictures`里面，来回移动太累了。我这里介绍一个Mac下的一个工具——Trickster，看图
 
-![移动图片](http://imgs.yansu.org/tech-trickster-move-picture.png)
+![移动图片](http://imgs.wangyan.name/tech-trickster-move-picture.png)
 
 这个工具可以看到刚刚修改过的图片，而且还有一个收藏的文件夹，我每次截取完图以后，从左边往右边一拖，然后在markdown中就可以继续书写了。一点都不耗时。
 

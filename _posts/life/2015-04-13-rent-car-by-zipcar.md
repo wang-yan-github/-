@@ -14,7 +14,7 @@ keywords: Zipcar,Rent,Car
 
 [Zipcar](http://www.zipcar.com) 是会员制的，在注册以后会给发一张 Zipcard 过来，有了这张卡你就可以随时去订车和提车了。Zipcar 不像其他租车行一样你得去固定地方统一取车，它的车就停在路边，他们有固定的停车位。来看一下 Zipcar 在 USC 附近的停车点。
 
-![zipcar map](http://imgs.yansu.org/life-zipcar-map.png)
+![zipcar map](http://imgs.wangyan.name/life-zipcar-map.png)
 
 ## Zipcar 使用
 
@@ -49,7 +49,7 @@ Zipcar 租的车带了加油卡，就在司机座位上面。虽然看起来比�
 
 在帐号注册的时候有个保险选项
 
-![damage fee](http://imgs.yansu.org/life-zipcar-damage-fee.png)
+![damage fee](http://imgs.wangyan.name/life-zipcar-damage-fee.png)
 
 我建议选择那个complete waiver，毕竟开车难免磕碰。
 

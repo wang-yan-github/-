@@ -16,22 +16,22 @@ keywords: 加州,生活,California,Las Vegas
 
 ## Bellagio Hotel
 
-![Bellagio](http://imgs.yansu.org/life-bellagio-resort.png)
+![Bellagio](http://imgs.wangyan.name/life-bellagio-resort.png)
 
-![Bellagio](http://imgs.yansu.org/life-bellagio-resort-2.png)
+![Bellagio](http://imgs.wangyan.name/life-bellagio-resort-2.png)
 
-![Bellagio](http://imgs.yansu.org/life-bellagio-resort-3.png)
+![Bellagio](http://imgs.wangyan.name/life-bellagio-resort-3.png)
 
 ## Hoover Dam
 
-![Hoover Dam](http://imgs.yansu.org/life-hoover-dam-1.png)
+![Hoover Dam](http://imgs.wangyan.name/life-hoover-dam-1.png)
 
-![Hoover Dam](http://imgs.yansu.org/life-hoover-dam-2.png)
+![Hoover Dam](http://imgs.wangyan.name/life-hoover-dam-2.png)
 
 ## Valley of Fire State Park
 
-![Valley of Fire](http://imgs.yansu.org/life-valley-of-fire-1.png)
+![Valley of Fire](http://imgs.wangyan.name/life-valley-of-fire-1.png)
 
-![Valley of Fire](http://imgs.yansu.org/life-valley-of-fire-2.png)
+![Valley of Fire](http://imgs.wangyan.name/life-valley-of-fire-2.png)
 
 

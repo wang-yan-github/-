@@ -23,7 +23,7 @@ keywords: 信用卡,生活，美国
 
 #### Citi ThankYou Preferred for College Students
 
-![](http://imgs.yansu.org/life-citi-thankyou-card.jpg)
+![](http://imgs.wangyan.name/life-citi-thankyou-card.jpg)
 
 [申请地址](https://goo.gl/oATrVo)
 
@@ -35,7 +35,7 @@ keywords: 信用卡,生活，美国
 
 ### Discover
 
-![](http://imgs.yansu.org/life-discover-it.jpg)
+![](http://imgs.wangyan.name/life-discover-it.jpg)
 
 [申请地址](https://goo.gl/QELR4c)
 
@@ -63,7 +63,7 @@ UR是Chaes的积分系统。以下所有信用卡的返现，都以积分方式�
 
 #### Chase Freedom
 
-![](http://imgs.yansu.org/life-chase-freedom.jpg)
+![](http://imgs.wangyan.name/life-chase-freedom.jpg)
 
 [申请地址](https://goo.gl/m8ovRp)
 
@@ -74,7 +74,7 @@ Chase Freedom 也是必选之一，因为也是一个5%季度返现卡，配合D
 
 #### Chase Freedom Unlimited
 
-![](http://imgs.yansu.org/life-cfu.png)
+![](http://imgs.wangyan.name/life-cfu.png)
 
 [申请地址](https://goo.gl/KmlL8s)
 
@@ -85,7 +85,7 @@ Chase Freedom 也是必选之一，因为也是一个5%季度返现卡，配合D
 
 #### Chase Sapphire Preferred (CSP)
 
-![](http://imgs.yansu.org/life-csp-card.png)
+![](http://imgs.wangyan.name/life-csp-card.png)
 
 [申请地址](https://goo.gl/c0cOIk)
 

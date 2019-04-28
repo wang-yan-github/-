@@ -104,7 +104,7 @@ description:
 
 另外可以对日志进行简单的处理，只保留自己需要的行和列，这个处理我用python写了。例如SAE拿下来的日志
 
-    yansublog.sinaapp.com 61.135.219.2 930269 99 [01/Jan/2014:00:02:02 +0800] yansublog 636 1 "GET /feed/ HTTP/1.0" 304 - "-" "Mozilla/5.0 (compatible;YoudaoFeedFetcher/1.0;http://www.youdao.com/help/reader/faq/topic006/;2 subscribers;)" 61.135.219.2.1388505722221452 yq22
+    wangYanJava.sinaapp.com 61.135.219.2 930269 99 [01/Jan/2014:00:02:02 +0800] wangYanJava 636 1 "GET /feed/ HTTP/1.0" 304 - "-" "Mozilla/5.0 (compatible;YoudaoFeedFetcher/1.0;http://www.youdao.com/help/reader/faq/topic006/;2 subscribers;)" 61.135.219.2.1388505722221452 yq22
 
 挺多数据，但是其中有不知道干啥用的，为了分析方便，把不知道用处的删掉
 

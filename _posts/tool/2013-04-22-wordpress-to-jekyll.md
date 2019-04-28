@@ -8,7 +8,7 @@ description: 花了两天时间，总算写好了自己基于GitHub的博客，�
 
 一直在寻找一种适合自己的博客写作方式，基于GitHub+Jekyll+Markdown的写作方式非常适合我，因为我平时就喜欢用markdown来记一些学习到的东西。
 
-以前的博客是在SAE上搭建的WordPress，这个博客还可以[访问](http://yansublog.sinaapp.com)，不过不打算更新了。选择更换的原因有：
+以前的博客是在SAE上搭建的WordPress，这个博客还可以[访问](http://wangYanJava.sinaapp.com)，不过不打算更新了。选择更换的原因有：
 
   - 有的时候我可能想先写点东西，然后再逐渐完善，WordPress已经提交的博客更新起来不方便
   

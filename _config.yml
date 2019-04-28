@@ -18,8 +18,8 @@ weibo: wangyanjava
 github: wangyanjava
 
 # avatar and Favicon
-avatar: http://imgs.yansu.org/site-avatar.png
-favicon: http://imgs.yansu.org/site-favicon.ico
+avatar: http://imgs.wangyan.name/site-avatar.png
+favicon: http://imgs.wangyan.name/site-favicon.ico
 
 # disqus config
 #disqus:
@@ -28,7 +28,7 @@ favicon: http://imgs.yansu.org/site-favicon.ico
 # google analytics config
 #ga:
 #  id: UA-54767140-1
-#  url: yansu.org
+#  url: wangyan.name
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

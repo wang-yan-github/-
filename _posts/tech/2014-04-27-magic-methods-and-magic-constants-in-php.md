@@ -217,7 +217,7 @@ var_dump(var_export($a));
 ```
 
 ### `__clone()`
-当对象复制完成时调用。例如在[设计模式详解及PHP实现：单例模式](http://yansu.org/2014/04/19/sigleton-design-pattern.html)一文中提到的单例模式实现方式，利用这个函数来防止对象被克隆。
+当对象复制完成时调用。例如在[设计模式详解及PHP实现：单例模式](http://wangyan.name/2014/04/19/sigleton-design-pattern.html)一文中提到的单例模式实现方式，利用这个函数来防止对象被克隆。
 
 ```php
 <?php 
