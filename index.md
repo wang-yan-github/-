@@ -4,7 +4,9 @@ layout: post
 ---
 
 [ ] http://yansu.org/2015/10/04/general-vim-resources.html 图片参考
+
 [ ] http://www.gaoxiaosouluo.cn 网站收藏
+
 [ ] 印象 有道 同步
 
 ## 关于我
