@@ -9,7 +9,7 @@ description:
 
 > 之前我在用SAE的Storage作为博客图床，但是令我非常不爽的是没有一个很好的上传和获得公共链接的方法。现在总算用Dropzone和七牛把这个问题解决了，下面是我上传图片和获得URL的操作，方法再往下看。
 
-![七牛操作流](http://imgs.wangyan.name/tool-qiniu-workflow.gif)
+![七牛操作流](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-workflow.gif)
 
 ## 设置七牛帐号
 
@@ -67,4 +67,3 @@ description:
 利用Dropzone还有很多可利用的技巧，例如增加一个ImageOptim应用来压缩图片，然后再进行上传。
 
 对于临时图片，可以直接上传到Imgur获得链接。
-
