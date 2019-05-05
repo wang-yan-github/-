@@ -270,5 +270,8 @@ git push
 [2]: http://jekyllrb.com/docs/structure/
 [3]: http://jekyllrb.com/docs/templates/
 [4]: http://docs.shopify.com/themes/liquid-basics
-[5]: http://jekyllrb.com/docs/variables/
-[6]: https://github.com/wangyanjava/-
+[5]: http://jekyllrb.com/docs/variables1/
+[6]: http://jekyllthemes.org/
+[7]: https://jekyllthemes.io/
+[8]: http://themes.jekyllrc.org/
+[9]: https://github.com/wangyanjava/-
