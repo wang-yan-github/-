@@ -9,7 +9,7 @@ description:
 
 > 之前我在用SAE的Storage作为博客图床，但是令我非常不爽的是没有一个很好的上传和获得公共链接的方法。现在总算用Dropzone和七牛把这个问题解决了，下面是我上传图片和获得URL的操作，方法再往下看。
 
-![七牛操作流](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-workflow.gif)
+![七牛操作流](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-qiniu-workflow.gif)
 
 ## 设置七牛帐号
 
@@ -19,13 +19,13 @@ description:
 
     刚刚创建的帐号是测试帐号，完成个人认证就可以成为标准帐号，获得10G的存储空间和各10G的上传下载流量。
 
-    ![标准帐号](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-normal-account.png)
+    ![标准帐号](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-qiniu-normal-account.png)
 
 2. 创建一个空间
 
     创建空间也比较容易，记得选择公开空间。
 
-    ![创建空间](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-create-bucket.png)
+    ![创建空间](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-qiniu-create-bucket.png)
 
 ## 设置Dropzone
 
@@ -48,7 +48,7 @@ description:
 
     从增加列表中选择我们安装好的七牛插件。
 
-    ![启用插件](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-use-bundle.png)
+    ![启用插件](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-use-bundle.png)
 
     然后填写配置：
 
@@ -58,9 +58,9 @@ description:
     - remote path(可选): 本地同步图片的目录，如果你希望本地也存一份图片，选一个地址即可
     - root url: 七牛的公共链接根目录
 
-    ![access key](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-access-key.png)
+    ![access key](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-qiniu-access-key.png)
 
-    ![root url](https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/tool-qiniu-root-url.png)
+    ![root url](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-qiniu-root-url.png)
 
 ## 其他建议
 

@@ -18,8 +18,8 @@ weibo: wangyanjava
 github: wangyanjava
 
 # avatar and Favicon
-avatar: https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/site-avatar.png
-favicon: https://wang-yan.oss-cn-hangzhou.aliyuncs.com/blog/site-favicon.ico
+avatar: https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/site-avatar.png
+favicon: https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/site-favicon.ico
 
 # disqus config
 isqus:
