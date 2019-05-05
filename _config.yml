@@ -23,11 +23,11 @@ favicon: https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/site-favicon.ico
 
 # disqus config
 isqus:
-  shortname: suyan-zh
+  shortname: wang-yan-disqus
 
 # google analytics config
 ga:
-  id: UA-54767140-1
+  id: UA-139596009-1
   url: wangyan.name
 
 # Build settings
