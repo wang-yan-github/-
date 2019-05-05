@@ -11,7 +11,7 @@ layout: post
 
 [ ] baseurl 爬取热点数据 github 金掘
 
-[ ] 标签页
+[ ] 标签页 | 归档页面
 
 ## 关于我
 
