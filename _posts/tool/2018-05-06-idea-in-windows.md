@@ -46,6 +46,8 @@ public void $METHOD_NAME$Test_$EXPECT$() {
 可以根据自己的习惯和需求定义，创建方式见[creating-and-editing-live-templates](https://www.jetbrains.com/help/idea/creating-and-editing-live-templates.html)
 
 - 快捷方式冲突
+ ideavim 和  idea 按键的冲突，可以在 Other Settings/Vim Emulation 中进行设置
+
     ![](https://wang-yan-blog.oss-cn-beijing.aliyuncs.com/tool-idea-in-vim-keymap.png)
         只需要输入gs，按tab键即可自动生成代码。
 
