@@ -36,7 +36,7 @@ collections:
     output: true                                                                                                        # 渲染为独立的文件
     permalink: /docs/:path                                                                                             # 永久链接
     values:                                                                                                             # 默认属性
-      layout:post
+      layout: post
 
 
 # Build settings
