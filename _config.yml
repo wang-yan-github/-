@@ -30,13 +30,23 @@ ga:
   id: UA-139596009-1
   url: wangyan.name
 
+# 定义一种新的文档类型
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
 # Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-highlighter: rouge
+markdown: kramdown                                                                                                      # 使用kramdown kramdown是markdown的超级
+highlighter: rouge                                                                                                      # 代码高亮的方式
 mathjax: disabled
 sass:
   style: compressed
+
+# 分页
+paginate: 1                                                                                                             # 显示的数量
+paginate_path: "article/:num"                                                                                           # 文件输出的方式
 
 # Jekyll Plugin
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
