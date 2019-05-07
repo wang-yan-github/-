@@ -1,3 +1,10 @@
+---
+layout: post
+title: 学习前提
+category: docs/idea
+tags: [IDEA, plugins ]
+description:
+---
 # 关于
 
 ## 学习前提
