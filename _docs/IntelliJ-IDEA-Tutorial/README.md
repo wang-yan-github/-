@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # 重要说明，看三遍
 
 ## 介绍(Introduce)
