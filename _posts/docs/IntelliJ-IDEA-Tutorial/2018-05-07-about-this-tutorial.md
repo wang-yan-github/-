@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习前提
-description:
+category:
 ---
 # 关于
 
