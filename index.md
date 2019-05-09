@@ -22,6 +22,10 @@ layout: post
 [**Prose**](https://prose.io/)
 Github所见即所得站点编辑器
 
+[web前端]({{ site.baseurl }}{% link /docs/bookmark/front-end-developer %})
+
+[IDEA Intellij 使用教程]({{ site.baseurl }}{% link /docs/IntelliJ-IDEA-Tutorial/README %})
+
 
 ## 博客平台
 
