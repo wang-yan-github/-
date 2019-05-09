@@ -1,8 +1,6 @@
 ---
 title: IDEA Intellij 使用教程
-category: docs
 tags: [IDEA, plugins ]
-description:
 ---
 
 # 重要说明，看三遍
