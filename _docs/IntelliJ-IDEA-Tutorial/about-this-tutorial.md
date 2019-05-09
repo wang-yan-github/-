@@ -1,4 +1,7 @@
 ---
+layout: post
+title: 学习前提
+category:
 ---
 # 关于
 
