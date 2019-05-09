@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 编译方式介绍
 
 ## 编译方式介绍 

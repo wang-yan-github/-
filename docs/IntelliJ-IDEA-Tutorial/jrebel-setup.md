@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 的 Java 热部署插件 JRebel 安装及使用
 
 ## JRebel 介绍

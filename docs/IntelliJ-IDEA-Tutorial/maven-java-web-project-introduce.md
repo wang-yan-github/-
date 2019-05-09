@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Maven 的单模块 / 多模块之 Spring MVC + Spring + Mybatis 项目讲解
 
 

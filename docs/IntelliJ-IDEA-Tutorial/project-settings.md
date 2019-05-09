@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Hello World 项目创建与项目配置文件介绍
 
 ## Hello World 项目创建

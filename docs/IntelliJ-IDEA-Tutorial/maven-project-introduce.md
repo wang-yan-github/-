@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Maven 项目介绍
 
 ## 学习前提

@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 远程调试 Tomcat
 
 ## 准备工作

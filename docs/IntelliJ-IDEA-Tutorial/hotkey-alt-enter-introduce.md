@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # 最特殊的快捷键 Alt + Enter 介绍
 
 ## 说明

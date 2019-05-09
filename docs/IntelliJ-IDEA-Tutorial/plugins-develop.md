@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 插件开发视频教程
 
 ## 重要说明

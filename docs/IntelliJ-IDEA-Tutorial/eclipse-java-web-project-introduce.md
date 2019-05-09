@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Eclipse 的 Java Web 项目环境搭建
 
 ## Eclipse 项目结构

@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Maven 的单模块 / 多模块之 Spring MVC + Spring + Spring Data JPA 项目（基于 IntelliJ IDEA）
 
 

@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Windows 系统下安装 IntelliJ IDEA
 
 ## 更新记录

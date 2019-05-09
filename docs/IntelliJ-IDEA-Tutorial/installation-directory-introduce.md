@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 相关核心文件和目录介绍
 
 ## 安装目录介绍

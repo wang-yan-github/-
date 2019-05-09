@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA For Mac 快捷键
 
 - 根据官方pdf翻译：<https://www.jetbrains.com/idea/docs/IntelliJIDEA_ReferenceCard_Mac.pdf>

@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 项目相关的几个重要概念介绍
 
 ## 必备材料介绍

@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Postfix Completion 的使用
 
 ## Postfix Completion 的介绍

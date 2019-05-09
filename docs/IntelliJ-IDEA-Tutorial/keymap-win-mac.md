@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # 从 Windows 过度到 Mac 必备快捷键对照表
 
 ## Mac 键盘符号说明

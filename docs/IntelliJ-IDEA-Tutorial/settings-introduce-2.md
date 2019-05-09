@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 常用设置讲解
 
 ## 说明

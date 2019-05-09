@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 界面介绍
 
 ## 首次打开 

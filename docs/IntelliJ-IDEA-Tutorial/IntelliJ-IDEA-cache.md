@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # IntelliJ IDEA 缓存和索引介绍和清理方法
 
 ## 缓存和索引介绍 

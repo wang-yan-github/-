@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Mac 系统下安装 IntelliJ IDEA
 
 ## 系统要求

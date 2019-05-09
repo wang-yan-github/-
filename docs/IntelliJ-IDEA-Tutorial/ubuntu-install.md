@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Ubuntu 系统下安装 IntelliJ IDEA
 
 ## 系统要求

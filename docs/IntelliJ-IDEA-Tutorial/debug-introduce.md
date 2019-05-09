@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Debug 介绍
 
 ## Debug 设置

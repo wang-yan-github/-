@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # 版本控制的使用
 
 ## IntelliJ IDEA 下的版本控制介绍

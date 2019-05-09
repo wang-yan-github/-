@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Emmet 的使用
 
 ## Emmet 的介绍

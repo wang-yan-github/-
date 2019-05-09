@@ -1,3 +1,6 @@
+---
+layout: post
+---
 - [1.IntelliJ IDEA 介绍（新用户必看）](introduce.md)
 - [2.本教程介绍（新用户必看）](about-this-tutorial.md)
 - [3.Windows 下安装](windows-install.md)
