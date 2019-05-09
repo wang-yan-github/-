@@ -34,7 +34,7 @@ ga:
 collections:
   docs:
     output: true                                                                                                        # 渲染为独立的文件
-    permalink: docs/:title                                                                                      # 永久链接
+    permalink: /:collection/:title                                                                                      # 永久链接
     values:                                                                                                             # 默认属性
       layout: post
 
