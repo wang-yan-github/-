@@ -3,7 +3,7 @@ title: Why Blog
 layout: post
 ---
 
-[ ] http://www.gaoxiaosouluo.cn 网站收藏
+[ ] (网站收藏)[http://www.gaoxiaosouluo.cn]
 
 [ ] 印象 有道 同步
 
