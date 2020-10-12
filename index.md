@@ -3,30 +3,28 @@ title: Why Blog
 layout: post
 ---
 
-[ ] (网站收藏)[http://www.gaoxiaosouluo.cn]
+## 常用网站
 
-[ ] 印象 有道 同步
+[QQ邮箱](https://mail.qq.com)
 
-[ ] baseurl 爬取热点数据 github 金掘
+[项目管理QQ](http://172.16.2.200)
 
-[ ] 标签页 | 归档页面
+[协同办公](http://110.185.172.106:8888)
+
+[金山文档](https://www.kdocs.cn)
+
+[禅道](http://172.168.107.112:8080/zentao)
+
+
 
 ## 关于我
 
 专注 Web 后端，偶尔写写前端。
 
-## 常用网站
 
-[**Prose**](https://prose.io/)
-Github所见即所得站点编辑器
-
-[web前端]({{ site.baseurl }}{% link /docs/bookmark/front-end-developer %})
-
-[IDEA Intellij 使用教程]({{ site.baseurl }}{% link /docs/IntelliJ-IDEA-Tutorial/README %})
 
 
 ## 博客平台
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成。
+本博客的源码托管在 [Github](https://github.com/wang-yan-github/-) 上，如果有任何改进意见，欢迎讨论。
 
-本博客的源码托管在 [Github](https://github.com/wangyanjava/-) 上，如果有任何改进意见，欢迎讨论。

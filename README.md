@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://wangyan.name](http://wangyan.name)
+地址：[https://xiaobaike.cc](https://xiaobaike.cc)
 
 ### 安装
  修改CNAME，或者删掉这个文件，使用默认域名
